@@ -323,7 +323,22 @@ return {
     "^[!/]([Bb]an)$",
     "^[!/]([Uu]nban)$",
     "^[!/]([Ii]d)$",
-    "^!!tgservice (.+)$"
+    "^!!tgservice (.+)$",
+    "^([Bb]anall) (.*)$",
+    "^([Bb]anall)$",
+    "^([Bb]anlist) (.*)$",
+    "^([Bb]anlist)$",
+    "^([Gg]banlist)$",
+    "^([Bb]an) (.*)$",
+    "^([Ss]ik)$",
+    "^([Uu]nban) (.*)$",
+    "^([Uu]nbanall) (.*)$",
+    "^([Uu]nbanall)$",
+    "^([Ss]ik) (.*)$",
+    "^([Ss]ikme)$",
+    "^([Bb]an)$",
+    "^([Uu]nban)$",
+    "^([Ii]d)$"
   },
   run = run,
   pre_process = pre_process
